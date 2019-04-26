@@ -1,0 +1,13 @@
+Package: com.xeon.wc
+Version: 1.0.0
+Section: Tweaks
+Maintainer: OV3RR1D3 <isaacriehm1@gmail.com>
+Depends: firmware (>12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.xeon.wc_1.0.0-1_iphoneos-arm.deb
+Size: 
+MD5sum: 
+Description: This is a sample new package. Firmware should be greater than 12.0
+Name: WC
+Author: OV3RR1D3 <reposithree@gmail.com>
+Depiction: https://ceticdev.github.io/Xeon/depictions/?p=com.xeon.wc
